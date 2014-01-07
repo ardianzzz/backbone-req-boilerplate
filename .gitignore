@@ -1,2 +1,4 @@
 app/scripts/vendor
+dist
+.sass-cache
 .DS_Store
